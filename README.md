@@ -55,14 +55,14 @@ These models are trained and evaluated to determine the most effective approach 
    ```bash
    jupyter notebook food_delivery.ipynb
 
-### 📈 Model Performance
+## 📈 Model Performance
 
 To assess how well different models predict food delivery times, we evaluated them using:
 
 - **Root Mean Squared Error (RMSE)**: Indicates how far predictions deviate from actual values. (Lower the better)
 - **R-squared (R² Score)**: Explains how much variance in the target is captured by the model. (Higher the better)
 
-### ✅ Model Comparison
+## ✅ Model Comparison
 
 | Model             | RMSE  | R² Score |
 |------------------ |-------|----------|
@@ -71,7 +71,7 @@ To assess how well different models predict food delivery times, we evaluated th
 | XGBoost           | 5.66  | 0.63     |
 | LightGBM          | 4.13  | 0.81     |
 
-### 🔍 Summary
+## 🔍 Summary
 
 - **Random Forest** achieved the best performance overall, slightly outperforming LightGBM in both accuracy and generalization.
 - **XGBoost** and **LightGBM** were close behind, making them solid choices for robust modeling.
@@ -79,13 +79,13 @@ To assess how well different models predict food delivery times, we evaluated th
 
 The best-performing model showed promising results with high R² and low error values.
 
-### 📉 Example Results
+## 📉 Example Results
 
 The image below shows how the residuals are distributed along the actual values by the best regressor.
 
 ![Residual Plots](assets/residual_plots.png)
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome and appreciated! If you’d like to improve this project, here’s how you can help:
 
@@ -95,12 +95,12 @@ Contributions are welcome and appreciated! If you’d like to improve this proje
 
 Please make sure your code follows best practices and includes proper documentation where necessary.
 
-### 📄 License
+## 📄 License
 
 This project is licensed under the terms of the [MIT License](LICENSE).  
 You are free to use, modify, and distribute this software as long as you include the original license.
 
-### 📬 Contact
+## 📬 Contact
 
 Created by [Davut Bayık](https://github.com/davutbayik) — feel free to reach out via GitHub for questions, feedback, or collaboration ideas.
 
