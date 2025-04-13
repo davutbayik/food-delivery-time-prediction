@@ -31,7 +31,7 @@ These models are trained and evaluated to determine the most effective approach 
 ### Prerequisites
 
 - Python 3.x
-- Jupyter Notebook 
+- Jupyter Notebook
 
 ### Installation
 
