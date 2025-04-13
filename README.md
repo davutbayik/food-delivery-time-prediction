@@ -76,3 +76,31 @@ To assess how well different models predict food delivery times, we evaluated th
 - **XGBoost** and **LightGBM** were close behind, making them solid choices for robust modeling.
 - **Linear Regression** used as a baseline estimator, performed significantly worse, highlighting the non-linear complexity of the delivery time prediction problem.
 
+The best-performing model showed promising results with high R² and low error values.
+
+### 📉 Example Results
+
+![Residual Plots](assets/residual_plots.png)
+
+### 🤝 Contributing
+
+Contributions are welcome and appreciated! If you’d like to improve this project, here’s how you can help:
+
+- 🐞 Report bugs or issues.
+- 🌟 Suggest new features or improvements.
+- 🔀 Fork the repo, make your changes, and submit a pull request.
+
+Please make sure your code follows best practices and includes proper documentation where necessary.
+
+### 📄 License
+
+This project is licensed under the terms of the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software as long as you include the original license.
+
+### 📬 Contact
+
+Created by [Davut Bayık](https://github.com/davutbayik) — feel free to reach out via GitHub for questions, feedback, or collaboration ideas.
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
