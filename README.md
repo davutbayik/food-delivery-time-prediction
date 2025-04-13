@@ -102,7 +102,7 @@ You are free to use, modify, and distribute this software as long as you include
 
 ## 📬 Contact
 
-Created by [Davut Bayık](https://github.com/davutbayik) — feel free to reach out via GitHub for questions, feedback, or collaboration ideas.
+Made with ❤️ by [Davut Bayık](https://github.com/davutbayik) — feel free to reach out via GitHub for questions, feedback, or collaboration ideas.
 
 ---
 
