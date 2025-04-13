@@ -43,6 +43,7 @@ These models are trained and evaluated to determine the most effective approach 
   ```
 
 2. Create and activate a virtual environment (Optional-Recommended):
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
