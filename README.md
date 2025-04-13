@@ -31,7 +31,7 @@ These models are trained and evaluated to determine the most effective approach 
 ### Prerequisites
 
 - Python 3.x
-- Jupyter Notebook
+- Jupyter Notebook 
 
 ### Installation
 
@@ -50,3 +50,7 @@ These models are trained and evaluated to determine the most effective approach 
 3. Install the required packages:
    ```bash
    pip install -r requirements.txt
+
+4. Launch the Jupyter Notebook
+   ```bash
+   jupyter notebook food_delivery.ipynb
