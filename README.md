@@ -40,16 +40,13 @@ These models are trained and evaluated to determine the most effective approach 
    ```bash
    git clone https://github.com/davutbayik/food-delivery-time-prediction.git
    cd food-delivery-time-prediction
-  ```
 
 2. Create and activate a virtual environment (Optional-Recommended):
 
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
 
 3. Install the required packages:
    ```bash
    pip install -r requirements.txt
-   ```
