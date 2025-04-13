@@ -48,4 +48,8 @@ These models are trained and evaluated to determine the most effective approach 
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-      
+
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
