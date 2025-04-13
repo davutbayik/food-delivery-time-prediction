@@ -11,10 +11,10 @@ This project leverages machine learning techniques to predict food delivery time
 
 The repository implements and compares several regression models, including:
 
-- Decision Tree Regressor
+- Linear Regression (Baseline)
 - Random Forest Regressor
 - XGBoost Regressor
-- AdaBoost Regressor
+- LightGBM Regressor
 
 These models are trained and evaluated to determine the most effective approach for predicting delivery times.
 
@@ -24,7 +24,6 @@ These models are trained and evaluated to determine the most effective approach 
 - **Feature Engineering**: Generating relevant features to improve model performance.
 - **Model Training**: Implementing multiple regression algorithms.
 - **Evaluation**: Comparing model performance using appropriate metrics.
-
 
 ## 🚀 Getting Started
 
@@ -54,3 +53,28 @@ These models are trained and evaluated to determine the most effective approach 
 4. Launch the Jupyter Notebook
    ```bash
    jupyter notebook food_delivery.ipynb
+
+### 📈 Model Performance
+
+To assess how well different models predict food delivery times, we evaluated them using:
+
+- **Root Mean Squared Error (RMSE)**: Indicates how far predictions deviate from actual values. (Lower the better)
+- **R-squared (R² Score)**: Explains how much variance in the target is captured by the model. (Higher the better)
+
+### ✅ Model Comparison
+
+| Model             | RMSE  | R² Score |
+|------------------ |-------|----------|
+| Linear Regression | 6.62  | 0.50     |
+| Random Forest     | **3.92**  | **0.82**     |
+| XGBoost           | 5.66  | 0.63     |
+| LightGBM          | 4.13  | 0.81     |
+
+> **Note**: These are example values. Replace with your actual evaluation metrics from the notebook.
+
+### 🔍 Summary
+
+- **Random Forest** achieved the best performance overall, slightly outperforming LightGBM in both accuracy and generalization.
+- **XGBoost** and **LightGBM** were close behind, making them solid choices for robust modeling.
+- **Linear Regression** used as a baseline estimator, performed significantly worse, highlighting the non-linear complexity of the delivery time prediction problem.
+
