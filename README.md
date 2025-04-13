@@ -74,7 +74,8 @@ To assess how well different models predict food delivery times, we evaluated th
 ## 🔍 Summary
 
 - **Random Forest** achieved the best performance overall, slightly outperforming LightGBM in both accuracy and generalization.
-- **XGBoost** and **LightGBM** were close behind, making them solid choices for robust modeling.
+- **LightGBM** was close behind, making them solid choices for robust modeling.
+- **XGBoost** performed poorly unexpectedly, better hyperparameter tuning would leads to greater results.
 - **Linear Regression** used as a baseline estimator, performed significantly worse, highlighting the non-linear complexity of the delivery time prediction problem.
 
 The best-performing model showed promising results with high R² and low error values.
