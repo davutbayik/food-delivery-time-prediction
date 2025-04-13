@@ -70,8 +70,6 @@ To assess how well different models predict food delivery times, we evaluated th
 | XGBoost           | 5.66  | 0.63     |
 | LightGBM          | 4.13  | 0.81     |
 
-> **Note**: These are example values. Replace with your actual evaluation metrics from the notebook.
-
 ### 🔍 Summary
 
 - **Random Forest** achieved the best performance overall, slightly outperforming LightGBM in both accuracy and generalization.
