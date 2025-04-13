@@ -1,7 +1,7 @@
 # 🍽️ Food Delivery Time Prediction
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
 [![Last Commit](https://img.shields.io/github/last-commit/davutbayik/food-delivery-time-prediction)](https://github.com/davutbayik/food-delivery-time-prediction/commits/main)
 
@@ -25,5 +25,19 @@ These models are trained and evaluated to determine the most effective approach 
 - **Model Training**: Implementing multiple regression algorithms.
 - **Evaluation**: Comparing model performance using appropriate metrics.
 
-## 📁 Repository Structure
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.x
+- Jupyter Notebook
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/davutbayik/food-delivery-time-prediction.git
+   cd food-delivery-time-prediction
+  ```
