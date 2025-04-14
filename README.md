@@ -84,7 +84,7 @@ The best-performing model showed promising results with high R² and low error v
 
 The image below shows how the residuals are distributed along the actual values by the best regressor.
 
-![Residual Plots](assets/residual_plots.png)
+![Residual Plots](assets/residual_plots_.png)
 
 ## 🤝 Contributing
 
