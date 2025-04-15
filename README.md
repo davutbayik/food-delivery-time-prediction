@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
-[![Last Commit](https://img.shields.io/github/last-commit/davutbayik/food-delivery-time-prediction)](https://github.com/davutbayik/food-delivery-time-prediction/commits/main)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 This project leverages machine learning techniques to predict food delivery times accurately. By analyzing various factors influencing delivery durations, it aims to enhance customer satisfaction and optimize logistics in the food delivery industry.
