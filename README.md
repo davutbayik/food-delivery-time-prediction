@@ -20,10 +20,10 @@ These models are trained and evaluated to determine the most effective approach 
 
 ## 🧠 Key Features
 
-- **Data Preprocessing**: Cleaning and preparing the dataset for modeling.
-- **Feature Engineering**: Generating relevant features to improve model performance.
-- **Model Training**: Implementing multiple regression algorithms.
-- **Evaluation**: Comparing model performance using appropriate metrics.
+- 🧹 **Data Preprocessing**: Cleaning and preparing the dataset for modeling
+- 🛠️ **Feature Engineering**: Generating relevant features to improve model performance
+- 🧠 **Model Training**: Implementing multiple regression algorithms
+- 🧪 **Evaluation**: Comparing model performance using appropriate metrics
 
 ## 🚀 Getting Started
 
